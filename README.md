@@ -4,7 +4,7 @@ Various resources and supporting material for Open Audio Search.
 
 ### Slides
 
-* [slides/oas-2021-05.md](slides/oas-2021-05.md): 2 minute intro presentation on OAS
+* [slides/oas-2021-05.md](slides/oas-2021-05.md): 2 minute intro presentation on OAS (in German)
 
 Howto:
 
